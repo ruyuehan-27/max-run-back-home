@@ -31,8 +31,8 @@ npm run typecheck
 npm run build
 ```
 
-修改源文件后运行 `npm run build`，将源文件和 `docs/` 一起提交。
+修改源文件后运行 `npm run build`。将 `docs/` 内的文件发布到仓库根目录；如果将 `assets/` 文件移到根目录，也需同步调整 `index.html` 和 CSS 中的资源路径。
 
-在线游玩：https://yt3511677906-cmyk.github.io/
+在线游玩：https://yt3511677906-cmyk.github.io/max-run-back-home/
 
 此项目为非官方同人作品；剧集、角色及歌曲属于各自权利人。
